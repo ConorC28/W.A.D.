@@ -22,7 +22,7 @@
 				
 				<!--3. Fantasy book id numbers and Computer books costing more than 40-->
 				<h2>All the Prodecers:</h2>
-				<xsl:apply-templates select="">
+				<xsl:apply-templates select=""/>
 				<!--
 				4. Published after 2001
 				<h2>Books published after 2001:</h2>
