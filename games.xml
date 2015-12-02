@@ -1,185 +1,188 @@
 <?xml version="1.0"?>
 <?xml-stylesheet href="games.xsl" type="text/xsl"?>
+<!--<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="games.xsl">
+-->
 <catalog>
 	<game id="G1">
 		<title>Legend of Zelda, Ocarina of Time</title>
-		<genre>Action Advemture/R.P.G.</genre>
-		<Multiplayer>No</Multiplayer>
-		<Developer>Nintendo</Developer>
-		<publisher>Nintendo</publiser>
+		<genre>Action Advemture/ R.P.G.</genre>
+		<multiplayer>No</multiplayer>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
 			<release_details>
 				<platform>Nintendo 64</platform>
 				<year>1998</year>
 				<age_rating>12+</age_rating>
 			</release_details>
-		<Information>
+		<information>
 			A Fantasy adventure set in the world of Hyrule. Dive in and save the Princess and the land as the hero of time!
-		</Information>
+		</information>
 	</game>
 	<game id="G2">
 		<title>Final Fantasy VII</title>
 		<genre>R.P.G.</genre>
-		<Multiplayer>No</Multiplayer>
-		<Developer>Squaresoft</Developer>
-		<publisher>Eidos</publiser>
+		<multiplayer>No</multiplayer>
+		<developer>Squaresoft</developer>
+		<publisher>Eidos</publisher>
 			<release_details>
 				<platform>PS1/PC</platform>
 				<year>1997</year>
 				<age_rating>12+</age_rating>
 			</release_details>
-		<Information>
+		<information>
 			A Fantasy role playing game. Narative Driven gameplay with character building and turn based fighting.
-		</Information>
+		</information>
 	</game>
 	<game id="G3">
 		<title>Elder Scrolls III, Morrowind</title>
 		<genre>Advemture/R.P.G.</genre>
-		<Multiplayer>No</Multiplayer>
-		<Developer>Bethesda</Developer>
-		<publisher>Bethesda Softworks</publiser>
+		<multiplayer>No</multiplayer>
+		<developer>Bethesda</developer>
+		<publisher>Bethesda Softworks</publisher>
 			<release_details>
 				<platform>X-Box/PC</platform>
 				<year>2000</year>
 				<age_rating>17+</age_rating>
 			</release_details>
-		<Information>
+		<information>
 			An adventure role playing game. Explore the hugh open world and interact with its many inhabitants.
-		</Information>
+		</information>
 	</game>
 	<game id="G4">
 		<title>Half-Life</title>
 		<genre>F.P.S./Adventure</genre>
-		<Multiplayer>No</Multiplayer>
-		<Developer>Valve</Developer>
-		<publisher>Sierra Entertainment</publiser>
+		<multiplayer>No</multiplayer>
+		<developer>Valve</developer>
+		<publisher>Sierra Entertainment</publisher>
 			<release_details>
 				<platform>PC/PS2</platform>
 				<year>1998</year>
 				<age_rating>17+</age_rating>
 			</release_details>
-		<Information>
+		<information>
 			A first person shooter with heavy story and adventure elements.Rose the bar for computer game engrossement.
-		</Information>
+		</information>
 	</game>
 	<game id="G5">
 		<title>Goldeneye</title>
 		<genre>F.P.S.</genre>
-		<Multiplayer>Yes</Multiplayer>
-		<Developer>Rare</Developer>
-		<publisher>Nintendo</publiser>
+		<multiplayer>Yes</multiplayer>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
 			<release_details>
 				<platform>N64</platform>
 				<year>1998</year>
 			<age_rating>17+</age_rating>
 			</release_details>
-		<Information>
-			A first person shooter with the James Bond licence. Made Multiplayer a must for F.P.S. games.
-		</Information>
+		<information>
+			A first person shooter with the James Bond licence. Made multiplayer a must for F.P.S. games.
+		</information>
 	</game>
 	<game id="G6">
 		<title>BattleField 4</title>
 		<genre>F.P.S.</genre>
-		<Multiplayer>Yes</Multiplayer>
-		<Developer>Dice</Developer>
-		<publisher>EA</publiser>
+		<multiplayer>Yes</multiplayer>
+		<developer>Dice</developer>
+		<publisher>EA</publisher>
 			<release_details>
 				<platform>Multi Platform/Current</platform>
 				<year>2013</year>
 				<age_rating>17+</age_rating>
 			</release_details>
-		<Information>
+		<information>
 			A first person shooter based in modern times.Features a Campaign and extensive multiplayer mode.
-		</Information>
+		</information>
 	</game>
 	<game id="G7">
 		<title>Call of Duty: Modern Warfare</title>
 		<genre>F.P.S.</genre>
-		<Multiplayer>Yes</Multiplayer>
-		<Developer>Infinity Ward</Developer>
-		<publisher>EA</publiser>
+		<multiplayer>Yes</multiplayer>
+		<developer>Infinity Ward</developer>
+		<publisher>EA</publisher>
 			<release_details>
 				<platform>PC/360</platform>
 				<year>2013</year>
 				<age_rating>17+</age_rating>
 			</release_details>
-		<Information>
+		<information>
 			A first person shooter based in modern times.One of the top selling franchises of all time.
-		</Information>
+		</information>
 	</game>
 	<game id="G8">
 		<title>Dark Souls</title>
 		<genre>Adventure/R.P.G.</genre>
-		<Multiplayer>Yes</Multiplayer>
-		<Developer>Fromsoftware</Developer>
-		<publisher>Namco Ban-Dai</publiser>
+		<multiplayer>Yes</multiplayer>
+		<developer>Fromsoftware</developer>
+		<publisher>Namco Ban-Dai</publisher>
 			<release_details>
 				<platform>PC/360/PS3</platform>
 				<year>2013</year>
 				<age_rating>17+</age_rating>
 			</release_details>
-		<Information>
+		<information>
 			This is for the hard and grimm gamer.The developers actually worked dying into the mechanics of this one.
-		</Information>
+		</information>
 	</game>
 	<game id="G9">
 		<title>Secret of Mana</title>
 		<genre>R.P.G.</genre>
-		<Multiplayer>Yes</Multiplayer>
-		<Developer>Square</Developer>
-		<publisher>Square</publiser>
+		<multiplayer>Yes</multiplayer>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
 			<release_details>
 				<platform>SNES</platform>
 				<year>1993</year>
 				<age_rating>3+</age_rating>
 			</release_details>
-		<Information>
+		<information>
 			A timeless role playing game.Beautifully made and tremendous fun to play.
-		</Information>
+		</information>
 	</game>
 	<game id="G10">
 		<title>Sonic the Hedgehog</title>
 		<genre>Plaqtformer</genre>
-		<Multiplayer>No</Multiplayer>
-		<Developer>Sega</Developer>
-		<publisher>Sega</publiser>
+		<multiplayer>No</multiplayer>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
 			<release_details>
 				<platform>Sega Mega-Drive</platform>
 				<year>1993</year>
 				<age_rating>3+</age_rating>
 			</release_details>
-		<Information>
+		<information>
 			One of the games that helped put gaming on the main stage. Control that speeding blue blur as he races across worlds.
-		</Information>
+		</information>
 	</game>
 	<game id="G11">
 		<title>Super Mario Kart</title>
 		<genre>Racing</genre>
-		<Multiplayer>Yes</Multiplayer>
-		<Developer>Nintendo</Developer>
-		<publisher>Nintendo</publiser>
+		<multiplayer>Yes</multiplayer>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
 			<release_details>
 				<platform>SNES</platform>
 				<year>1992</year>
 				<age_rating>3+</age_rating>
 			</release_details>
-		<Information>
+		<information>
 			A timeless role playing game.Beautifully made and tremendous fun to play.
-		</Information>
+		</information>
 	</game>
 	<game id="G12">
 		<title>Doom</title>
 		<genre>F.P.S.</genre>
-		<Multiplayer>No</Multiplayer>
-		<Developer>Id software</Developer>
-		<publisher>GT-Interactive</publiser>
+		<multiplayer>No</multiplayer>
+		<developer>Id software</developer>
+		<publisher>GT-Interactive</publisher>
 			<release_details>
 				<platform>SNES/PC</platform>
 				<year>1993</year>
 				<age_rating>12+</age_rating>
 			</release_details>
-		<Information>
+		<information>
 			A timeless role playing game.Beautifully made and tremendous fun to play.
-		</Information>
+		</information>
 	</game>
 </catalog>
