@@ -1,5 +1,5 @@
 <?php
-
+//comment
 // Load the XML source
 $xml = new DOMDocument;
 $xml->load('games.xml');
