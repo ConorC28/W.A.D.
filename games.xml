@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <?xml-stylesheet href="games.xsl" type="text/xsl"?>
+<?xml-stylesheet href="consoles.xsl" type="text/xsl"?>
 <!--<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 
 <catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="games.xsl">

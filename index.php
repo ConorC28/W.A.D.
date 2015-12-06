@@ -5,7 +5,7 @@ $xml = new DOMDocument;
 $xml->load('games.xml');
 $xsl = new DOMDocument;
 $xsl->substituteEntities = true; 
-$xsl->load('games.xsl');
+$xsl->load('consoles.xsl');
 
 // Configure the transformer
 $proc = new XSLTProcessor;

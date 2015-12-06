@@ -12,9 +12,32 @@
 }
 
 body {
-	margin: 0;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-image:url("images/Background.png");
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	height:100%;
+	width:100%;
 }
-
+.testDiv{
+float:right;
+height:100px;
+width:100px;
+background-color:black;
+}
+.welBox{
+margin-top:25px;
+width:auto;
+margin: auto;
+background-color:lightblue;
+border-radius:20px;
+padding-left:10px;
+padding-right:-10px;
+}
 [class*='col-'] {
 	float: left;
   min-height: 1px;
