@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <game>
+        <title>Some title</title>
+		<genre>Game genre</genre>
+		<multiplayer>Yes/No</multiplayer>
+		<developer>Name</developer>
+		<publisher>Name</publisher>
+    </game>    
+<game><title>f</title><genre>s</genre><multiplayer>d</multiplayer><developer/><publisher>a</publisher></game><game><title>1</title><genre>2</genre><multiplayer>3</multiplayer><developer/><publisher>5</publisher></game><game><title>12</title><genre>23</genre><multiplayer>34</multiplayer><developer/><publisher>56</publisher></game></catalog>
